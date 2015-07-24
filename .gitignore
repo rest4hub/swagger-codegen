@@ -15,7 +15,8 @@ generated-code/*
 
 /target
 /generated-files
-/nbactions.xml
+nbactions.xml
+nb-configuration.xml
 *.pyc
 __pycache__
 samples/server-generator/scalatra/output
